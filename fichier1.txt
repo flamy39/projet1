@@ -1,1 +1,2 @@
 Hello World
+Bienvenue dans le cours Git
